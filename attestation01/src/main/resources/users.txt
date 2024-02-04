@@ -1,0 +1,3 @@
+1|2024-02-15T10:15:30|user1|password1|Ivanov|Ivan||30|true
+2|2024-02-15T11:00:00|user2|password2|Petrov|Petr||25|false
+3|2024-02-15T11:45:30|user3|password3|Крылов|Виктор|Павлович|25|true

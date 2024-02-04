@@ -1,0 +1,3 @@
+Car{brand='Toyota', model='Corolla', year=2020, horsepower=150, acceleration=10, suspension=5, durability=7}
+Car{brand='Ferrari', model='488', year=2021, horsepower=670, acceleration=8, suspension=4, durability=9}
+Car{brand='Lamborghini', model='Huracan', year=2019, horsepower=610, acceleration=9, suspension=6, durability=8}
